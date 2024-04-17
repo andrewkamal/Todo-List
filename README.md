@@ -1,5 +1,5 @@
 # Todo-List
-![alt text](https://github.com/andrewkamal/Travel-Tracker/blob/main/public/image.png)
+![alt text](https://github.com/andrewkamal/Todo-List/blob/main/public/todolist.png)
 This is a simple Todo List application built with Node.js, Express, EJS, and PostgreSQL.
 
 ## Getting Started
